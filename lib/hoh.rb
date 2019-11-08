@@ -31,9 +31,26 @@
 # }
 
 def naming_system
-  # Remember:
-  #  Kingdom
-  #  Phylum
+  life = {
+    label: "Kingdom",
+    sub_category: {
+      label: "Phylum",
+      sub_category: {
+        label: "Class"
+      }
+    },
+    label: {"Order"}, 
+    label: {"Family",
+    sub_category: {
+      label: "Genus"
+    },
+    label: {"Species",
+    sub_category: {
+      nil
+    }
+    life
+    
+  
   #  Class
   #  Order
   #  Family
