@@ -39,16 +39,14 @@ def naming_system
         label: "Class"
       }
     },
-    label: {"Order"
-    }, 
-    label: {"Family",
+    label: "Order", 
+    label: "Family",
     sub_category: {
       label: "Genus"
     },
-    label: {"Species",
+    label: "Species",
     sub_category: {
       nil
-    }
     }
   }
     life
