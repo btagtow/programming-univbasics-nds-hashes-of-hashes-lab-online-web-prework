@@ -49,7 +49,7 @@ def naming_system
       nil
     }
   }
-    life
+  return life
     
   
   #  Class
