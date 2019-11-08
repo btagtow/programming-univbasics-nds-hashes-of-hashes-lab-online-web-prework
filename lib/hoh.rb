@@ -49,7 +49,6 @@ def naming_system
       nil
     }
   }
-  return life
     
   
   #  Class
